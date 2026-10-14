@@ -1,0 +1,7 @@
+{
+  "name": "LoraProtocol",
+  "version": "0.1.0",
+  "description": "LoRa Su Yonetim Sistemi baglanti protokolu v1 (donanimdan bagimsiz)",
+  "frameworks": "*",
+  "platforms": "*"
+}
