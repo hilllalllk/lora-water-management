@@ -99,15 +99,4 @@ cd ../mobile && npm install && cp .env.example .env.local && npx expo start
 
 ESP32 · Ebyte E32-433T30D · C++ / Arduino / PlatformIO · Supabase (PostgreSQL, Auth, Realtime) · React Native / Expo / TypeScript · GitHub Actions
 
-## Ekip
 
-| Ad | Rol |
-|---|---|
-| Kadir Berke | |
-| | |
-
-Danışman: 
-
-## Lisans
-
-[MIT](LICENSE)
