@@ -1,0 +1,9 @@
+parca,adet,yer,not
+ESP32 DevKit V1 (ESP32-WROOM-32),3,2 dugum + 1 gateway,~250 TL/adet
+Ebyte E32-433T20D (100 mW 433 MHz),3,her ESP32,~350 TL/adet; varsayilan guc Min = 10 dBm (~10 mW); iletimde ~130 mA
+433 MHz SMA anten,3,her E32,~80 TL/adet; anten takmadan calistirmayin
+MAX3485 RS-485 modulu (3.3V),2,node-modbus dugumu (+1 yedek),~50 TL/adet; GPIO25 RX / GPIO26 TX / GPIO27 DE+RE
+USB-RS485 cevirici,1,bilgisayar,~150 TL; PC Modbus slave simulatoru ile test
+USB adaptor (5V 1A+) ve kablo,3,her ESP32,~150 TL/adet; E32 de buradan beslenir (ayri guc kaynagi gerekmez)
+Breadboard + jumper + LED + 10k potansiyometre + 100uF kondansator,1 set,-,~300 TL; simule cihaz ve baglantilar
+Yedek (1x ESP32 + 1x E32-433T20D),1,-,~600 TL

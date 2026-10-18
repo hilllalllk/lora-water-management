@@ -1,0 +1,22 @@
+# Secrets (never commit)
+firmware/include/secrets.h
+.env
+.env.local
+*.env.local
+
+# PlatformIO
+firmware/.pio/
+firmware/.vscode/
+
+# Node / Expo
+node_modules/
+tools/dist/
+
+# Supabase CLI
+backend/supabase/.temp/
+backend/supabase/.branches/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/

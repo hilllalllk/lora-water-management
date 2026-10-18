@@ -1,0 +1,7 @@
+{
+  "name": "ModbusRtu",
+  "version": "0.1.0",
+  "description": "Minimal Modbus RTU master frame builder/parser (hardware independent)",
+  "frameworks": "*",
+  "platforms": "*"
+}

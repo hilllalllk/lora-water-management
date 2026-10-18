@@ -1,0 +1,7 @@
+{
+  "name": "LoraProtocol",
+  "version": "0.1.0",
+  "description": "LoRa Water Management System link protocol v1 (hardware independent)",
+  "frameworks": "*",
+  "platforms": "*"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FieldDevice",
+  "version": "0.2.0",
+  "description": "Field device adapters (simulated device, Modbus RTU controller)",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "dependencies": [
+    { "name": "LoraProtocol" },
+    { "name": "ModbusRtu" }
+  ]
+}
