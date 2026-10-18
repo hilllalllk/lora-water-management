@@ -117,15 +117,4 @@ cd ../mobile && npm install && cp .env.example .env.local && npx expo start
 
 Dil kuralı: README iki dillidir, ayrıntılı dokümanlar Türkçedir, kod yorumları İngilizcedir, uygulama arayüzü Türkçedir ([ADR-0006](docs/adr/0006-bilesen-dilleri.md)).
 
-## Ekip
 
-| Ad | Rol | GitHub |
-|---|---|---|
-| Kadir Berke | | |
-| | | |
-
-Danışman: Erkan Duman
-
-## Lisans
-
-[MIT](LICENSE)
